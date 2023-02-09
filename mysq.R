@@ -4,5 +4,6 @@ mysq <- function(x){
   plot(y ~ x)
   
   list(x = x, y = y, ysum = summary(y))
+  "potato"
   
 }
